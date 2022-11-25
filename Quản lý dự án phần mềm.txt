@@ -1,0 +1,43 @@
+1 đánh giá tính khả thi
+	đánh giá khả thi về công nghệ
+	đánh giá khả thi về nhân lực
+	đánh giá khả thi về chi phí
+2 Lập kế hoạch dự án
+	Lên danh sách công việc
+	Lên danh sách con người
+	Lên lịch thời gian cho các công việc
+	phân bổ kinh phí
+3 Khảo sát hệ thống
+	Nghiên cứu tài liệu hệ thống
+	Quan sát
+	Phỏng vấn
+	Tổng hợp tài liệu, mô tả bài toán
+4 phân tích hệ thống
+	Phân tích yêu cầu
+	Phân tích biểu đồ UC
+	phân tích biều đồ hoạt động
+	phân tích biểu đồ tuần tự
+	phân tích biểu đồ lớp
+5 Thiết kế hệ thống
+	Thiết kế giao diên
+	Thiết kế báo cáo
+		Báo cáo chi tiết
+		Báo cáo tổng hợp
+		Báo cáo thống kê
+	Thiết kế CSDL
+	Thiết kế giải thuật
+	Viết báo cáo
+6 Mã hoá( nên chia thành các mô - đun)
+	Quản lý hệ thống
+	Quản lý danh mục
+	Quản lý nghiệp vụ 1
+	Quản lý nghiệp vụ 2
+	Thống kê báo cáo
+	Viết tài liệu hướng dẫn sử dụng
+7 Cài đặt và kiểm thử
+	Cài đặt
+	Kiểm thử
+
+8 Phân công công việc
+9 Lập ma trận trách nhiệm
+10. Ma trận biểu đồ gantt
